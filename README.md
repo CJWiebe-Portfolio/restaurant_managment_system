@@ -50,4 +50,4 @@ install required to run it.
 
 ## Credits
 
-Built by TheRealCiggyWiggy as part of a Python Summer Camp project.
+Built by C.J. Wiebe.

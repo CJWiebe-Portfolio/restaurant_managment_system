@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# PyInstaller build output (regenerate with the command in README)
+build/
+dist/
+
+# Saved restaurant data (per-player save file, not source)
+restaurant_data.json
+
+# Editor/IDE
+.idea/
+.vscode/
