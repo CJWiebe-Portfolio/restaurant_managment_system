@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# PyInstaller build output (regenerate with build.bat / the command in README)
+build/
+dist/
+*.spec
+
+# Saved restaurant data (per-player save file, not source)
+restaurant_data.json
+
+# Editor/IDE
+.idea/
+.vscode/
+
+# Static Jupyter export (kept locally, not tracked in the repo)
+Restaurant_Management_Final_Project.html
