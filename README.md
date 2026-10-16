@@ -1,11 +1,11 @@
 # Restaurant Management System
 
-A small restaurant management app written in Python. Set up a restaurant
+This is a small restaurant management app written in Python. Used as part of a class project to build a restaurant
 (name, menu, prices, starting inventory), take customer orders, resupply
 inventory, and print a daily sales report -- with your progress saved
 between runs.
 
-Available two ways:
+Available in two ways:
 - **`gui.py`** -- a Tkinter desktop app (recommended)
 - **`main.py`** -- a text/console version
 
